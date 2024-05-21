@@ -1,7 +1,7 @@
 <h1>Carrossel de Fotos</h1>
 <br>
 <br>
-<a href="https://carrossel-nordeste.netlify.app/)">Acessar a página</a>
+<a href="https://carrossel-nordeste.netlify.app">Acessar a página</a>
 <br>
 <br>
 <br>
